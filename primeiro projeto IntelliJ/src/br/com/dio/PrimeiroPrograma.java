@@ -7,8 +7,8 @@ public class PrimeiroPrograma {
         System.out.println();
 
 
-        /*int a = 5;
+        int a = 5;
         int b = 9;
-        System.out.println("Hello World" + (a+b));*/
+        System.out.println("Hello World" + (a+b));
     }
 }
